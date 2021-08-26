@@ -1,0 +1,3 @@
+/Users/parmin/CLionProjects/ps26pate/Syde-223/A3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/parmin/CLionProjects/ps26pate/Syde-223/A3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/parmin/CLionProjects/ps26pate/Syde-223/A3/cmake-build-debug/CMakeFiles/syde223-a3.dir

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/parmin/CLionProjects/ps26pate/A1/doubly-linked-list.h
+
+/Users/parmin/CLionProjects/ps26pate/A1/polynomial.h
+doubly-linked-list.h
+/Users/parmin/CLionProjects/ps26pate/A1/doubly-linked-list.h
+iostream
+-
+
+/Users/parmin/CLionProjects/ps26pate/A1/sequential-list.h
+
+/Users/parmin/CLionProjects/ps26pate/A1/test.cpp
+iostream
+-
+string
+-
+test.h
+/Users/parmin/CLionProjects/ps26pate/A1/test.h
+
+/Users/parmin/CLionProjects/ps26pate/A1/test.h
+doubly-linked-list.h
+/Users/parmin/CLionProjects/ps26pate/A1/doubly-linked-list.h
+sequential-list.h
+/Users/parmin/CLionProjects/ps26pate/A1/sequential-list.h
+polynomial.h
+/Users/parmin/CLionProjects/ps26pate/A1/polynomial.h
+

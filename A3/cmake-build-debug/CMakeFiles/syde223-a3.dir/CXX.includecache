@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/parmin/CLionProjects/ps26pate/Syde-223/A3/avl-tree.h
+binary-search-tree.h
+/Users/parmin/CLionProjects/ps26pate/Syde-223/A3/binary-search-tree.h
+
+/Users/parmin/CLionProjects/ps26pate/Syde-223/A3/binary-search-tree.h
+
+/Users/parmin/CLionProjects/ps26pate/Syde-223/A3/test.cpp
+test.h
+/Users/parmin/CLionProjects/ps26pate/Syde-223/A3/test.h
+iostream
+-
+string
+-
+
+/Users/parmin/CLionProjects/ps26pate/Syde-223/A3/test.h
+algorithm
+-
+sstream
+-
+queue
+-
+binary-search-tree.h
+/Users/parmin/CLionProjects/ps26pate/Syde-223/A3/binary-search-tree.h
+avl-tree.h
+/Users/parmin/CLionProjects/ps26pate/Syde-223/A3/avl-tree.h
+
